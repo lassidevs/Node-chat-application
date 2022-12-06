@@ -2,6 +2,8 @@
 A fullstack chat application made with Node, Express, socket.io, Redis.
 
 > USE:
->> git clone
->> npm run dev
->> navigate to localhost:3000
+> git clone
+
+> npm run dev
+
+> navigate to localhost:3000
