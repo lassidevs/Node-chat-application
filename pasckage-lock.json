@@ -1,11 +1,11 @@
 {
-    "name": "chatcord",
-    "version": "1.0.0",
+    "name": "nodechat",
+    "version": "1.0.1",
     "lockfileVersion": 2,
     "requires": true,
     "packages": {
       "": {
-        "name": "chatcord",
+        "name": "nodechat",
         "version": "1.0.0",
         "license": "MIT",
         "dependencies": {
